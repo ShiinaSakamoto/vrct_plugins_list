@@ -1,7 +1,7 @@
 [
     {
         "title": "VRCT Subtitles",
-        "plugin_id": "vrct_plugin_example_1",
+        "plugin_id": "zipped_example_plugin_1",
         "asset_name": "zipped_example_plugin_1.zip",
         "url": "https://api.github.com/repos/ShiinaSakamoto/vrct_plugin_example_1/releases/latest"
     }
