@@ -2,5 +2,9 @@
     {
         "title": "VRCT Example Plugins 1",
         "url": "https://api.github.com/repos/ShiinaSakamoto/vrct_plugin_example_1/releases/latest"
+    },
+    {
+        "title": "VRCT Example Plugins 2",
+        "url": "https://api.github.com/repos/ShiinaSakamoto/vrct_plugin_example_2/releases/latest"
     }
 ]
