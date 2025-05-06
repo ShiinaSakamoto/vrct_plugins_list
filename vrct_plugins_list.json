@@ -1,6 +1,7 @@
 [
     {
         "title": "VRCT Subtitles",
-        "url": "https://api.github.com/repos/ShiinaSakamoto/vrct_plugin_subtitles/releases/latest"
+        "url": "https://api.github.com/repos/ShiinaSakamoto/vrct_plugin_subtitles/releases/latest",
+        "homepage_link": "https://github.com/ShiinaSakamoto/vrct_plugin_subtitles/blob/main/README.md"
     }
 ]
